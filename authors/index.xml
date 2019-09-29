@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Emmanouil Tranos</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/tranos_small.jpg</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am a Reader in Quantitative Human Geography at University of Bristol.
+My research focuses on the spatiality of the digital economy and I have published on issues related to the geography of the internet infrastructure, the economic impacts that such digital infrastructure can generate on cities and regions and the position of cities within spatial, complex networks.&lt;/p&gt;
+
+&lt;p&gt;I have a strong interest and expertise on the use of new sources of big data, such as data from mobile phone operators, to better understand the complexities of cities and urban systems.&lt;/p&gt;
+
+&lt;p&gt;Recently, my research explores the geography of the creation of online content and its interrelation with cities and the spatial structure using web data and digital archives.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Email&lt;/strong&gt; me at: e[dot]tranos[at]bristol[dot]ac[dot]uk&lt;/p&gt;
+
+&lt;p&gt;Affiliations:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bristol.ac.uk/geography/research/quantitative-spatial-science/&#34; target=&#34;_blank&#34;&gt;Quantitative Spatial Science, University of Bristol&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.turing.ac.uk/&#34; target=&#34;_blank&#34;&gt;The Alan Turing Institute&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.birmingham.ac.uk/research/city-redi/index.aspx&#34; target=&#34;_blank&#34;&gt;CityREDI, Birmingham Business School&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robert Ford</title>
+      <link>/authors/robert-ford/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/robert-ford/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
