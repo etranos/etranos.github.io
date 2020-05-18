@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog | Dr Emmanouil Tranos</title>
+    <link>/categories/blog/</link>
+      <atom:link href="/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/tranos_small.jpg</url>
+      <title>Blog</title>
+      <link>/categories/blog/</link>
+    </image>
+    
+    <item>
+      <title>Social Network Sites and Knowledge Transfer: an Urban Perspective</title>
+      <link>/post/blog_digital/</link>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/post/blog_digital/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./featured.jpeg&#34; alt=&#34;jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;New blogpost for the &lt;a href=&#34;https://www.digitalsocieties.co.uk/&#34;&gt;Digital Societies&lt;/a&gt; group from the &lt;a href=&#34;https://www.bristol.ac.uk/&#34;&gt;University of Bristol&lt;/a&gt; available &lt;a href=&#34;https://www.digitalsocieties.co.uk/blog/knowledgetransfer&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The blogpost is based on my new paper published by the &lt;em&gt;Journal of Planning Literature&lt;/em&gt;.
+This is the full reference and link to the publication:&lt;/p&gt;
+&lt;p&gt;Tranos, E. 2020. Social network sites and knowledge transfer: An urban perspective. &lt;em&gt;Journal of Planning Literature&lt;/em&gt;:in press. &lt;a href=&#34;https://doi.org/10.1177/0885412220921526&#34;&gt;https://doi.org/10.1177/0885412220921526&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Applied Machine Learning Days, Lausanne 2020</title>
+      <link>/post/amldepfl/</link>
+      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/post/amldepfl/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./featured.png&#34; alt=&#34;jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;My talk on the paper we are working with on together with Christoph Stich and &lt;a href=&#34;http://www.maxnathan.com&#34;&gt;Max Nathan&lt;/a&gt; on &lt;em&gt;Modelling clusters from ground up: a web data approach&lt;/em&gt; during the &lt;a href=&#34;https://appliedmldays.org/tracks/ai-cities&#34;&gt;AI &amp;amp; Cities&lt;/a&gt; track of the &lt;a href=&#34;https://appliedmldays.org/&#34;&gt;AMLD at EPFL&lt;/a&gt;.
+The YouTube video is available &lt;a href=&#34;https://www.youtube.com/watch?v=d4O1W5Aho7Q&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Local Internet Content</title>
+      <link>/post/cdrc/</link>
+      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/post/cdrc/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./featured.png&#34; alt=&#34;jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://data.cdrc.ac.uk/dataset/local-internet-content&#34;&gt;CDRC&lt;/a&gt; hosts the &lt;strong&gt;data&lt;/strong&gt; and the &lt;strong&gt;code&lt;/strong&gt; we developed to measure the volume of Local Internet Content in the UK during 2001-2012 using the &lt;a href=&#34;https://data.webarchive.org.uk/opendata/ukwa.ds.2/&#34;&gt;JISC UK Web Domain Dataset&lt;/a&gt;.
+The above accompany our paper in &lt;em&gt;CEUS&lt;/em&gt;:&lt;/p&gt;
+&lt;p&gt;Tranos, E., and C. Stich. 2020. Individual internet usage and the availability of online content of local interest: A multilevel approach. &lt;em&gt;Computers, Environment and Urban Systems&lt;/em&gt; 79:101371. &lt;a href=&#34;https://doi.org/10.1016/j.compenvurbsys.2019.101371&#34;&gt;https://doi.org/10.1016/j.compenvurbsys.2019.101371&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Our research was funded by a &lt;a href=&#34;https://www.cdrc.ac.uk/cdrc-launches-esrc-innovation-fund/&#34;&gt;CDRC Innovation Fund&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Web Archives: A Tool for Geographical Research?</title>
+      <link>/post/blog_bl/</link>
+      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/post/blog_bl/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./featured.png&#34; alt=&#34;jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;A blogpost for the &lt;a href=&#34;https://blogs.bl.uk/webarchive/&#34;&gt;UK Web Archive&lt;/a&gt; together with Christoph Stich is available &lt;a href=&#34;https://blogs.bl.uk/webarchive/2018/09/web-archives-a-tool-for-geographical-research.html&#34;&gt;here&lt;/a&gt;.
+This is an early summary of our research based on the &lt;a href=&#34;http://data.webarchive.org.uk/opendata/ukwa.ds.2/&#34;&gt;JISC UK Web Domain Dataset&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
