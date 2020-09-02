@@ -5,12 +5,26 @@
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Dr Emmanouil Tranos</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/tranos_small.jpg</url>
       <title>Dr Emmanouil Tranos</title>
       <link>/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>New paper presented in ERSA 2020</title>
+      <link>/post/ersa2020/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/post/ersa2020/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./featured.png&#34; alt=&#34;jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This is our new paper with &lt;a href=&#34;https://www.birmingham.ac.uk/staff/profiles/business/carrascal-incera-andre.aspx&#34;&gt;Andre Carrascal Incera&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/georgewgeog&#34;&gt;George Willis&lt;/a&gt; on Material and immaterial regional interdependencies: using the web to predict regional trade flows.&lt;/p&gt;
+&lt;p&gt;We model and predict interregional trade flows for the UK using the digital traces that interregional trade leaves behind.
+We scrape open web data containing hyperlinks between commercial websites and apply ML techniques for out-of-sample predictions.
+Our main hypothesis is that such hyperlinks reflect business and trade relations.&lt;/p&gt;
+&lt;p&gt;The first result support this hypothesis and the presentation is available &lt;a href=&#34;./ersa2020.html&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Social Network Sites and Knowledge Transfer: an Urban Perspective</title>
