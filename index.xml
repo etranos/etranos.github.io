@@ -71,6 +71,19 @@
     </item>
     
     <item>
+      <title>Using the web to predict regional trade flows</title>
+      <link>/post/sad2021/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/post/sad2021/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./featured.png&#34; alt=&#34;jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;See &lt;a href=&#34;./sad2021.html&#34;&gt;here&lt;/a&gt; my talk for the &lt;a href=&#34;https://www.ncl.ac.uk/digitalinstitute/events/data-nucore/&#34;&gt;SAD seminar series&lt;/a&gt;. It is based on our work with &lt;a href=&#34;https://sites.google.com/view/andrecarrascalincera/home&#34;&gt;Andre Carrascal Incera&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/georgewgeog&#34;&gt;George Willis&lt;/a&gt; on &amp;lsquo;Using the web to predict regional trade flows&amp;rsquo;.&lt;/p&gt;
+&lt;p&gt;We model and predict interregional trade flows for the UK using the digital traces that interregional trade leaves behind.
+We scrape open web data containing hyperlinks between commercial websites and apply ML techniques for out-of-sample predictions.
+Our main hypothesis is that such hyperlinks reflect business and trade relations.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>New paper presented in ERSA 2020</title>
       <link>/post/ersa2020/</link>
       <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
