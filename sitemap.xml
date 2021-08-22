@@ -3,177 +3,167 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/courses/example/example1/</loc>
+    <loc>https://etranos.info/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/</loc>
+    <loc>https://etranos.info/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/example2/</loc>
+    <loc>https://etranos.info/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/example/</loc>
+    <loc>https://etranos.info/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>https://etranos.info/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>https://etranos.info/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://etranos.info/authors/admin/</loc>
     <lastmod>2021-06-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/academic/</loc>
+    <loc>https://etranos.info/tags/academic/</loc>
     <lastmod>2021-06-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>https://etranos.info/authors/</loc>
     <lastmod>2021-06-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/blog/</loc>
+    <loc>https://etranos.info/categories/blog/</loc>
     <lastmod>2021-06-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://etranos.info/categories/</loc>
     <lastmod>2021-06-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://etranos.info/post/</loc>
     <lastmod>2021-06-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://etranos.info/tags/</loc>
     <lastmod>2021-06-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/rinr2021/</loc>
+    <loc>https://etranos.info/post/rinr2021/</loc>
     <lastmod>2021-06-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/sad2021/</loc>
+    <loc>https://etranos.info/post/sad2021/</loc>
     <lastmod>2021-03-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/ersa2020/</loc>
+    <loc>https://etranos.info/post/ersa2020/</loc>
     <lastmod>2020-09-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/</loc>
+    <loc>https://etranos.info/publication/</loc>
     <lastmod>2020-05-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/publications/</loc>
+    <loc>https://etranos.info/publication/publications/</loc>
     <lastmod>2020-05-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/blog_digital/</loc>
+    <loc>https://etranos.info/post/blog_digital/</loc>
     <lastmod>2020-04-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/amldepfl/</loc>
+    <loc>https://etranos.info/post/amldepfl/</loc>
     <lastmod>2020-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/code/</loc>
+    <loc>https://etranos.info/tags/code/</loc>
     <lastmod>2019-09-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/data/</loc>
+    <loc>https://etranos.info/tags/data/</loc>
     <lastmod>2019-09-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/cdrc/</loc>
+    <loc>https://etranos.info/post/cdrc/</loc>
     <lastmod>2019-09-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/</loc>
+    <loc>https://etranos.info/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/slides/</loc>
+    <loc>https://etranos.info/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/slides/example/</loc>
+    <loc>https://etranos.info/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/blog_bl/</loc>
+    <loc>https://etranos.info/post/blog_bl/</loc>
     <lastmod>2018-09-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/deep-learning/</loc>
+    <loc>https://etranos.info/tags/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/demo/</loc>
+    <loc>https://etranos.info/tags/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/external-project/</loc>
+    <loc>https://etranos.info/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/internal-project/</loc>
+    <loc>https://etranos.info/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/</loc>
+    <loc>https://etranos.info/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
+    <loc>https://etranos.info/publication_types/</loc>
   </url>
   
 </urlset>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Code | Dr Emmanouil Tranos</title>
-    <link>/tags/code/</link>
-      <atom:link href="/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://etranos.info/tags/code/</link>
+      <atom:link href="https://etranos.info/tags/code/index.xml" rel="self" type="application/rss+xml" />
     <description>Code</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/tranos_small.jpg</url>
+      <url>https://etranos.info/img/tranos_small.jpg</url>
       <title>Code</title>
-      <link>/tags/code/</link>
+      <link>https://etranos.info/tags/code/</link>
     </image>
     
     <item>
       <title>Local Internet Content</title>
-      <link>/post/cdrc/</link>
+      <link>https://etranos.info/post/cdrc/</link>
       <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/post/cdrc/</guid>
+      <guid>https://etranos.info/post/cdrc/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./featured.png&#34; alt=&#34;jpeg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://data.cdrc.ac.uk/dataset/local-internet-content&#34;&gt;CDRC&lt;/a&gt; hosts the &lt;strong&gt;data&lt;/strong&gt; and the &lt;strong&gt;code&lt;/strong&gt; we developed to measure the volume of Local Internet Content in the UK during 2001-2012 using the &lt;a href=&#34;https://data.webarchive.org.uk/opendata/ukwa.ds.2/&#34;&gt;JISC UK Web Domain Dataset&lt;/a&gt;.
 The above accompany our paper in &lt;em&gt;CEUS&lt;/em&gt;:&lt;/p&gt;
