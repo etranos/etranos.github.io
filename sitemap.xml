@@ -33,6 +33,16 @@
   </url>
   
   <url>
+    <loc>https://etranos.info/publication/</loc>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://etranos.info/publication/publications/</loc>
+    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://etranos.info/authors/admin/</loc>
     <lastmod>2021-06-13T00:00:00+00:00</lastmod>
   </url>
@@ -154,14 +164,6 @@
   
   <url>
     <loc>https://etranos.info/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>https://etranos.info/publication/</loc>
-  </url>
-  
-  <url>
-    <loc>https://etranos.info/publication/publications/</loc>
   </url>
   
 </urlset>
