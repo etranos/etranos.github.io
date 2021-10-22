@@ -5,12 +5,27 @@
     <link>https://etranos.info/tags/academic/</link>
       <atom:link href="https://etranos.info/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 13 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 22 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://etranos.info/img/tranos_small.jpg</url>
       <title>Academic</title>
       <link>https://etranos.info/tags/academic/</link>
     </image>
+    
+    <item>
+      <title>New MSc in Geographic Data Science and Spatial Analytics</title>
+      <link>https://etranos.info/post/gdssa/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://etranos.info/post/gdssa/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./featured.png&#34; alt=&#34;jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;We super happy to announce our new &lt;a href=&#34;http://www.bristol.ac.uk/study/postgraduate/2022/sci/msc-geographic-data-science-and-spatial-analytics/&#34;&gt;MSc in Geographic Data Science and Spatial Analytics&lt;/a&gt; which is starting in September 2021!&lt;/p&gt;
+&lt;p&gt;Are you passionate about using data and analytics to improve cities and solve spatial problems? The MSc in Geographic Data Science and Spatial Analytics will help you achieve your ambitions. You will learn how to utilise cutting edge tools and methods from data science to analyse spatial data in order to tackle challenges spanning across various spatial scales: from neighbourhoods and cities to regions and supra-national systems.&lt;/p&gt;
+&lt;p&gt;Whether your background is in Geography, Planning and, more broadly, Social Sciences or in numerate sciences such as Computer Science and Engineering this programme will help you succeed in the dynamic fields of Geographic Data Science and Spatial Analytics.&lt;/p&gt;
+&lt;p&gt;You will master data science and machine learning algorithms, tools, and data structures and apply them to understand the core theories and concepts in urban analytics and city science. You will be able to employ cartographic and geographic theory and concepts to map and model big geographic data. You will understand the main engineering concepts and principles around scientific computing and data infrastructure and use them to model smart cities and urban digital infrastructure.&lt;/p&gt;
+&lt;p&gt;The MSc in Geographic Data Science and Spatial Analytics builds upon the Quantitative Spatial Science (&lt;a href=&#34;https://www.bristol.ac.uk/geography/research/quantitative-spatial-science/&#34;&gt;QuSS&lt;/a&gt;) research group within the School of Geographical Sciences and its longstanding history and excellence in quantitative geography and spatial analysis.&lt;/p&gt;
+&lt;p&gt;This programme will be covered in our Geography: Data Science and Environmental Modelling webinar during our &lt;a href=&#34;https://www.bristol.ac.uk/study/postgraduate/visits-open-days/virtual-open-week/&#34;&gt;virtual open week&lt;/a&gt;. &lt;a href=&#34;https://bristol-ac-uk.zoom.us/webinar/register/WN_kOZW_TchSwuydBV4CIa_zQ&#34;&gt;Register today&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Working from home and digital divides: resilience during the pandemic</title>
