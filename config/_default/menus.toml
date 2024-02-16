@@ -1,0 +1,47 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+#[[main]]
+#  name = "Demo"
+#  url = "#hero"
+#  weight = 10
+
+[[main]]
+  name = "Posts & Talks"
+  url = "#posts"
+  weight = 40
+
+#[[main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 30
+
+[[main]]
+# I am creating a publications.html from a publications.Rmd.
+# More info in the relevant folder.
+  name = "Publications"
+  #url = "files/publications.html"
+  #change the above to _help/pulbications/ ...
+  url = "publication/publications"
+  #I changed the above in order not to go down to the widget but to the new publications page
+  weight = 20
+
+[[main]]
+  name = "Courses"
+  url = "https://etranos.info/urban_analytics_city_science/"
+  weight = 50
+#courses/
+
+#[[main]]
+#  name = "Contact"
+#  url = "#contact"
+#  weight = 60
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+#[[main]]
+#    name = "CV"
+#    url = "files/cv.pdf"
+#    weight = 70
