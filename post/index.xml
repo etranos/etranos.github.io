@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Emmanouil Tranos</title>
+    <link>https://etranos.info/post/</link>
+      <atom:link href="https://etranos.info/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://etranos.info/img/tranos_small.jpg</url>
+      <title>Posts</title>
+      <link>https://etranos.info/post/</link>
+    </image>
+    
+    <item>
+      <title>Digital economy in the UK: an evolutionary story</title>
+      <link>https://etranos.info/post/gceg2022/</link>
+      <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://etranos.info/post/gceg2022/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./featured.png&#34; alt=&#34;jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;See here the &lt;a href=&#34;./web_diffusion.html&#34;&gt;slides&lt;/a&gt; for my &lt;a href=&#34;http://www.gceg.org/&#34;&gt;Global Conference on Economic Geography&lt;/a&gt; presentation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New MSc in Geographic Data Science and Spatial Analytics</title>
+      <link>https://etranos.info/post/gdssa/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://etranos.info/post/gdssa/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./featured.png&#34; alt=&#34;jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;We super happy to announce our new &lt;a href=&#34;http://www.bristol.ac.uk/study/postgraduate/2022/sci/msc-geographic-data-science-and-spatial-analytics/&#34;&gt;MSc in Geographic Data Science and Spatial Analytics&lt;/a&gt; which is starting in September 2021!&lt;/p&gt;
+&lt;p&gt;Are you passionate about using data and analytics to improve cities and solve spatial problems? The MSc in Geographic Data Science and Spatial Analytics will help you achieve your ambitions. You will learn how to utilise cutting edge tools and methods from data science to analyse spatial data in order to tackle challenges spanning across various spatial scales: from neighbourhoods and cities to regions and supra-national systems.&lt;/p&gt;
+&lt;p&gt;Whether your background is in Geography, Planning and, more broadly, Social Sciences or in numerate sciences such as Computer Science and Engineering this programme will help you succeed in the dynamic fields of Geographic Data Science and Spatial Analytics.&lt;/p&gt;
+&lt;p&gt;You will master data science and machine learning algorithms, tools, and data structures and apply them to understand the core theories and concepts in urban analytics and city science. You will be able to employ cartographic and geographic theory and concepts to map and model big geographic data. You will understand the main engineering concepts and principles around scientific computing and data infrastructure and use them to model smart cities and urban digital infrastructure.&lt;/p&gt;
+&lt;p&gt;The MSc in Geographic Data Science and Spatial Analytics builds upon the Quantitative Spatial Science (&lt;a href=&#34;https://www.bristol.ac.uk/geography/research/quantitative-spatial-science/&#34;&gt;QuSS&lt;/a&gt;) research group within the School of Geographical Sciences and its longstanding history and excellence in quantitative geography and spatial analysis.&lt;/p&gt;
+&lt;p&gt;This programme will be covered in our Geography: Data Science and Environmental Modelling webinar during our &lt;a href=&#34;https://www.bristol.ac.uk/study/postgraduate/visits-open-days/virtual-open-week/&#34;&gt;virtual open week&lt;/a&gt;. &lt;a href=&#34;https://bristol-ac-uk.zoom.us/webinar/register/WN_kOZW_TchSwuydBV4CIa_zQ&#34;&gt;Register today&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Working from home and digital divides: resilience during the pandemic</title>
+      <link>https://etranos.info/post/rinr2021/</link>
+      <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://etranos.info/post/rinr2021/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./featured.png&#34; alt=&#34;jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;See here the &lt;a href=&#34;./RinR2021.html&#34;&gt;slides&lt;/a&gt; for my &lt;a href=&#34;https://www.ncl.ac.uk/digitalinstitute/events/data-nucore/&#34;&gt;Regions in Recovery 2021&lt;/a&gt; presentation.
+It is based on the paper with &lt;a href=&#34;https://www.tsu.ox.ac.uk/people/hbudnitz.html&#34;&gt;Hannah Budnitzh&lt;/a&gt;, which it will appear soon in the &lt;a href=&#34;https://www.tandfonline.com/doi/full/10.1080/24694452.2021.1939647&#34;&gt;Annals of the AAG&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This paper offers a new perspective on telecommuting from the viewpoint of the complex web of digital divides. Using the UK as a case study, this paper studies how the quality and reliability of internet services, as reflected in &lt;em&gt;experienced&lt;/em&gt; internet upload speeds during the spring 2020 lockdown, may reinforce or redress the spatial and social dimensions of digital divisions. Fast, reliable internet connections are necessary for the population to be able to work from home. Although not every place hosts individuals in occupations which allow for telecommuting nor with the necessary skills to effectively use the internet to telecommute, good internet connectivity is also essential to local economic resilience in a period like the current pandemic. Employing data on individual broadband speed tests and state-of-the-art time-series clustering methods, we create clusters of UK local authorities with similar temporal signatures of experienced upload speeds. We then associate these clusters of local authorities with their socioeconomic and geographic characteristics to explore how they overlap with or diverge from the existing economic and digital geography of the UK. Our analysis enables us to better understand how the spatial and social distribution of both occupations and online accessibility intersect to enable or hinder the practice of telecommuting at a time of extreme demand.&lt;/p&gt;
+&lt;p&gt;This presentation is part of the special session we organised on &lt;a href=&#34;https://events.rdmobile.com/Sessions/Details/1135845&#34;&gt;Digital Tools for Recovery and the Resilience of Cities and Regions during and After a Crisis&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using the web to predict regional trade flows</title>
+      <link>https://etranos.info/post/sad2021/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://etranos.info/post/sad2021/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./featured.png&#34; alt=&#34;jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;See here my &lt;a href=&#34;./SAD2021.html&#34;&gt;slides&lt;/a&gt; and the &lt;a href=&#34;https://www.youtube.com/watch?v=ZT98X7XcJKM&#34;&gt;talk&lt;/a&gt; for the &lt;a href=&#34;https://www.ncl.ac.uk/digitalinstitute/events/data-nucore/&#34;&gt;SAD seminar series&lt;/a&gt;. It is based on our work with &lt;a href=&#34;https://sites.google.com/view/andrecarrascalincera/home&#34;&gt;Andre Carrascal Incera&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/georgewgeog&#34;&gt;George Willis&lt;/a&gt; on &amp;lsquo;Using the web to predict regional trade flows&amp;rsquo;.&lt;/p&gt;
+&lt;p&gt;We model and predict interregional trade flows for the UK using the digital traces that interregional trade leaves behind.
+We scrape open web data containing hyperlinks between commercial websites and apply ML techniques for out-of-sample predictions.
+Our main hypothesis is that such hyperlinks reflect business and trade relations.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New paper presented in ERSA 2020</title>
+      <link>https://etranos.info/post/ersa2020/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://etranos.info/post/ersa2020/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./featured.png&#34; alt=&#34;jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This is our new paper with &lt;a href=&#34;https://www.birmingham.ac.uk/staff/profiles/business/carrascal-incera-andre.aspx&#34;&gt;Andre Carrascal Incera&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/georgewgeog&#34;&gt;George Willis&lt;/a&gt; on Material and immaterial regional interdependencies: using the web to predict regional trade flows.&lt;/p&gt;
+&lt;p&gt;We model and predict interregional trade flows for the UK using the digital traces that interregional trade leaves behind.
+We scrape open web data containing hyperlinks between commercial websites and apply ML techniques for out-of-sample predictions.
+Our main hypothesis is that such hyperlinks reflect business and trade relations.&lt;/p&gt;
+&lt;p&gt;The first result support this hypothesis and the presentation is available &lt;a href=&#34;./ersa2020.html&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Social Network Sites and Knowledge Transfer: an Urban Perspective</title>
+      <link>https://etranos.info/post/blog_digital/</link>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://etranos.info/post/blog_digital/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./featured.jpeg&#34; alt=&#34;jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;New blogpost for the &lt;a href=&#34;https://www.digitalsocieties.co.uk/&#34;&gt;Digital Societies&lt;/a&gt; group from the &lt;a href=&#34;https://www.bristol.ac.uk/&#34;&gt;University of Bristol&lt;/a&gt; available &lt;a href=&#34;https://www.digitalsocieties.co.uk/blog/knowledgetransfer&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The blogpost is based on my new paper published by the &lt;em&gt;Journal of Planning Literature&lt;/em&gt;.
+This is the full reference and link to the publication:&lt;/p&gt;
+&lt;p&gt;Tranos, E. 2020. Social network sites and knowledge transfer: An urban perspective. &lt;em&gt;Journal of Planning Literature&lt;/em&gt;:in press. &lt;a href=&#34;https://doi.org/10.1177/0885412220921526&#34;&gt;https://doi.org/10.1177/0885412220921526&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Applied Machine Learning Days, Lausanne 2020</title>
+      <link>https://etranos.info/post/amldepfl/</link>
+      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://etranos.info/post/amldepfl/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./featured.png&#34; alt=&#34;jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;My talk on the paper we are working with on together with Christoph Stich and &lt;a href=&#34;http://www.maxnathan.com&#34;&gt;Max Nathan&lt;/a&gt; on &lt;em&gt;Modelling clusters from ground up: a web data approach&lt;/em&gt; during the &lt;a href=&#34;https://appliedmldays.org/tracks/ai-cities&#34;&gt;AI &amp;amp; Cities&lt;/a&gt; track of the &lt;a href=&#34;https://appliedmldays.org/&#34;&gt;AMLD at EPFL&lt;/a&gt;.
+The YouTube video is available &lt;a href=&#34;https://www.youtube.com/watch?v=d4O1W5Aho7Q&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Local Internet Content</title>
+      <link>https://etranos.info/post/cdrc/</link>
+      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://etranos.info/post/cdrc/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./featured.png&#34; alt=&#34;jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://data.cdrc.ac.uk/dataset/local-internet-content&#34;&gt;CDRC&lt;/a&gt; hosts the &lt;strong&gt;data&lt;/strong&gt; and the &lt;strong&gt;code&lt;/strong&gt; we developed to measure the volume of Local Internet Content in the UK during 2001-2012 using the &lt;a href=&#34;https://data.webarchive.org.uk/opendata/ukwa.ds.2/&#34;&gt;JISC UK Web Domain Dataset&lt;/a&gt;.
+The above accompany our paper in &lt;em&gt;CEUS&lt;/em&gt;:&lt;/p&gt;
+&lt;p&gt;Tranos, E., and C. Stich. 2020. Individual internet usage and the availability of online content of local interest: A multilevel approach. &lt;em&gt;Computers, Environment and Urban Systems&lt;/em&gt; 79:101371. &lt;a href=&#34;https://doi.org/10.1016/j.compenvurbsys.2019.101371&#34;&gt;https://doi.org/10.1016/j.compenvurbsys.2019.101371&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Our research was funded by a &lt;a href=&#34;https://www.cdrc.ac.uk/cdrc-launches-esrc-innovation-fund/&#34;&gt;CDRC Innovation Fund&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Web Archives: A Tool for Geographical Research?</title>
+      <link>https://etranos.info/post/blog_bl/</link>
+      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://etranos.info/post/blog_bl/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./featured.png&#34; alt=&#34;jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;A blogpost for the &lt;a href=&#34;https://blogs.bl.uk/webarchive/&#34;&gt;UK Web Archive&lt;/a&gt; together with Christoph Stich is available &lt;a href=&#34;https://blogs.bl.uk/webarchive/2018/09/web-archives-a-tool-for-geographical-research.html&#34;&gt;here&lt;/a&gt;.
+This is an early summary of our research based on the &lt;a href=&#34;http://data.webarchive.org.uk/opendata/ukwa.ds.2/&#34;&gt;JISC UK Web Domain Dataset&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
