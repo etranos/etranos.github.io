@@ -20,6 +20,12 @@
     <loc>https://etranos.info/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://etranos.info/publication/</loc>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://etranos.info/publication/publications/</loc>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://etranos.info/authors/admin/</loc>
     <lastmod>2024-05-23T00:00:00+00:00</lastmod>
   </url><url>
@@ -102,9 +108,5 @@
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://etranos.info/publication_types/</loc>
-  </url><url>
-    <loc>https://etranos.info/publication/</loc>
-  </url><url>
-    <loc>https://etranos.info/publication/publications/</loc>
   </url>
 </urlset>
